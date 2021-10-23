@@ -37,7 +37,7 @@ sections:
     title: STUDIES
     posts_number: 4
     actions:
-      - label: View Blog
+      - label: View GitHub
         url: blog/index.html
         style: button
 seo:
