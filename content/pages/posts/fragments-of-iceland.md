@@ -5,7 +5,7 @@ date: '2013-12-17'
 thumb_img_path: /images/agronomia.gif
 thumb_img_alt: Agronomic Engineer
 content_img_path: /images/Pythonlogo-d5046277.jpg
-content_img_alt: Icelandic horses
+content_img_alt: Agrnomic Engineer
 seo:
   title: Fragments of Iceland
   description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
