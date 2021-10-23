@@ -5,7 +5,7 @@ date: '2021-04-01'
 thumb_img_path: /images/Pythonlogo-535755b6.jpg
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
 content_img_path: /images/Pythonlogo-535755b6.jpg
-content_img_alt: Fushimi Inari Shrine in Kyoto
+content_img_alt: Python
 seo:
   title: A Weekend in Japan
   description: >-
