@@ -35,7 +35,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     title: STUDIES
-    posts_number: 4
+    posts_number: 3
     actions:
       - label: View GitHub
         url: 'https://github.com/Fabriciogg8'
