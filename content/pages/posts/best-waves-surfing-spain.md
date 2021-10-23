@@ -1,7 +1,9 @@
 ---
 title: English
 subtitle: Cambridge First Certificate in English
-excerpt: I approved the first international exam in English
+excerpt: >-
+  I approved the Cambridge English Level 1 Certificate in ESSOL International
+  (First)
 date: '2018-01-15'
 thumb_img_path: /images/Cambridge.jpg
 thumb_img_alt: English
