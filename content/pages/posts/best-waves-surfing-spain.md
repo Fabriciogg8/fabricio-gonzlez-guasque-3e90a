@@ -35,13 +35,10 @@ seo:
       relativeUrl: true
 layout: post
 ---
-**English.** in dicember of 2020 I aprobed the First Certificate in English. 
+**English.** in dicember of 2020 I aprobed the First Certificate in English.
 
-Since I was a kid I began to watch movies and series in english. That gave me the opportunity to start hearing this language, and learn more about it. 
+Since I was a kid I began to watch movies and series in english. That gave me the opportunity to start hearing this language, and learn more about it.
 
-Also in 2012 I had the opportunity to Travel to New Zealand and Australia for 30 days, where I managed to talk with the people.
+Also in 2012 I had the opportunity to travel to New Zealand and Australia for 30 days, where I managed to talk with the people.
 
-
-
-![](/images/nz.jpg) 
-
+![](/images/nz.jpg)
