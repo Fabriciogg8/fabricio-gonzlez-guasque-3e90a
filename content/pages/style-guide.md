@@ -37,25 +37,22 @@ title: Python
 ---
 **Python**. I start to learn this language in March of 2021.
 
-## **Python Basics**
+### **Python Basics**
 
-I have been working in python basics, some of the topics are variables, list, dicts, classes, conditionals, etc; 
+I have been working in python basics, some of the topics are variables, list, dicts, classes, conditionals, etc;
 
-## **Flask**
+### **Flask**
 
-I'm working on different backend frameworks, one of them is Flask. I'm manage to build an application with users logins, registration, logouts, and more. 
+I'm working on different backend frameworks, one of them is Flask. I'm manage to build an application with users logins, registration, logouts, and more.
 
-For these I also learned some database basics in SQL mostly. 
+For these I also learned some database basics in SQL mostly.
 
 ### **Pygame**
 
-I have been doing some games with this set of Python modules. 
+I have been doing some games with this set of Python modules.
 
 ## **Continuing...**
 
 My goal for the futures months is to continuing studying python, and make more projects in this language.
 
 If you want to know more, keep an eye on my GitHub profile, were I will be commiting my work.
-
-
-
