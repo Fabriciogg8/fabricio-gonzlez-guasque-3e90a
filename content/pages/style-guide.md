@@ -1,8 +1,7 @@
 ---
 subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+  I have been workinh on python projects. From python basics, to flask
+  application. Also I learn some on pygame.
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
