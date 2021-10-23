@@ -6,7 +6,7 @@ excerpt: >-
 date: '2021-03-22'
 thumb_img_path: /images/sembrando.gif
 thumb_img_alt: Hikers on the trail
-content_img_path: images/8.jpg
+content_img_path: /images/sembrando.gif
 content_img_alt: Hikers on the trail
 seo:
   title: Hiking The Grand Canyon
