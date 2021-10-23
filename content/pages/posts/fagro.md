@@ -17,9 +17,7 @@ seo:
       value: Fragments of Iceland
       keyName: property
     - name: 'og:description'
-      value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
+      value: Fagro
       keyName: property
     - name: 'og:image'
       value: images/7.jpg
@@ -30,9 +28,7 @@ seo:
     - name: 'twitter:title'
       value: Fragments of Iceland
     - name: 'twitter:description'
-      value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
+      value: Fagro
     - name: 'twitter:image'
       value: images/7.jpg
       relativeUrl: true

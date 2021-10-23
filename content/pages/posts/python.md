@@ -34,3 +34,19 @@ seo:
       relativeUrl: true
 layout: post
 ---
+# **PYTHON**
+
+As a part of the knowledge requirements in the program of Sembrando TIC, I took and approved the following courses at edX plataform:
+
+• Python de la A a la Z
+• Accediendo a los Datos de la Web con Python: Web Scrapping y APIs
+• Almacenamiento, Acceso y Visualización de Datos con Python
+• Introducción al desarrollo de aplicaciones web
+
+I'm also learning at Platzi. This is a platform of online education. Here I approved the courses of the python trilogy:
+
+• Python basico
+• Python intermedio: comprhensions, lamba y manejo de errores
+• Python profesional
+
+You can see all my certificates in my linkedIn profile
