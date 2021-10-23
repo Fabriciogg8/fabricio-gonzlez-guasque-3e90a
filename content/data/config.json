@@ -24,7 +24,7 @@
             {
                 "label": "PROJECTS",
                 "url": "/style-guide/",
-                "style": "button"
+                "style": "link"
             },
             {
                 "label": "About",
