@@ -4,7 +4,7 @@ excerpt: 'I have knowledge in python, that is an interpreted programming languag
 date: '2021-04-01'
 thumb_img_path: /images/Pythonlogo-535755b6.jpg
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
-content_img_path: images/2.jpg
+content_img_path: /images/Pythonlogo-535755b6.jpg
 content_img_alt: Fushimi Inari Shrine in Kyoto
 seo:
   title: A Weekend in Japan
