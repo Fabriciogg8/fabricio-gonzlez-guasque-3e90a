@@ -9,7 +9,7 @@ sections:
       On this website I introduce myself, and I show the different things that I
       have studied and in which I have worked.
 
-      ***I hope you enjoy it! ***
+      I hope you enjoy it! 
   - section_id: about
     type: section_content
     title: About me
