@@ -38,7 +38,7 @@ sections:
     posts_number: 4
     actions:
       - label: View GitHub
-        url: blog/index.html
+        url: 'https://github.com/Fabriciogg8'
         style: button
 seo:
   title: Stackbit Fresh Theme
