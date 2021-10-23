@@ -1,7 +1,7 @@
 ---
 title: Python
 excerpt: 'I have knowledge in python, that is an interpreted programming language.'
-date: '2019-03-24'
+date: '2020-03-24'
 thumb_img_path: /images/Pythonlogo-535755b6.jpg
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
 content_img_path: images/2.jpg
