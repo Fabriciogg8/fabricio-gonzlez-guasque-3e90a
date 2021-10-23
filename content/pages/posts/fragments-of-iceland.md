@@ -1,5 +1,5 @@
 ---
-title: Python
+title: Agronomic Engineer
 excerpt: I finish several courses whit python
 date: '2019-03-27'
 thumb_img_path: /images/agronomia.gif
