@@ -4,7 +4,7 @@ subtitle: A cautionary tale about riding
 excerpt: I study this technologies for web applications
 date: '2018-01-23'
 thumb_img_path: /images/html.png
-thumb_img_alt: A motorcycle in a forest
+thumb_img_alt: 'HTML, CSS, JS'
 content_img_path: images/3.jpg
 content_img_alt: A motorcycle in a forest
 seo:
