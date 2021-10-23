@@ -1,7 +1,7 @@
 ---
 title: 'HTML, CSS, JS'
 subtitle: A cautionary tale about riding
-excerpt: I have some experience in this aplications web technologies
+excerpt: I study this technologies for web applications
 date: '2018-01-23'
 thumb_img_path: /images/html.png
 thumb_img_alt: A motorcycle in a forest
