@@ -2,7 +2,7 @@
 title: Python
 excerpt: I finish several courses whit python
 date: '2019-03-27'
-thumb_img_path: /images/Pythonlogo.jpg
+thumb_img_path: /images/agronomia.gif
 thumb_img_alt: Icelandic horses
 content_img_path: /images/Pythonlogo-d5046277.jpg
 content_img_alt: Icelandic horses
