@@ -4,7 +4,7 @@ subtitle: A intresting tale about Surfing
 excerpt: I aprobed the first international exam in English
 date: '2018-01-15'
 thumb_img_path: /images/logo-cambridge.jpg
-thumb_img_alt: Three person about to surf
+thumb_img_alt: English
 content_img_path: images/4.jpg
 content_img_alt: Three person about to surf
 seo:
