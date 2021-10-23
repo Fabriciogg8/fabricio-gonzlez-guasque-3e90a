@@ -2,7 +2,7 @@
 title: 'HTML, CSS, JS'
 subtitle: A cautionary tale about riding
 excerpt: I study this technologies for web applications
-date: '2018-01-01'
+date: '2021-03-01'
 thumb_img_path: /images/html.png
 thumb_img_alt: 'HTML, CSS, JS'
 content_img_path: /images/html.png
