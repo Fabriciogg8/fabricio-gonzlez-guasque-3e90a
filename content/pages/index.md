@@ -5,12 +5,11 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Fabricio González Guasque'
-    content: >+
+    content: >
       On this website I introduce myself, and I show the different things that I
       have studied and in which I have worked.
 
-      I hope you enjoy it!
-
+      ***I hope you enjoy it! ***
   - section_id: about
     type: section_content
     title: About me
