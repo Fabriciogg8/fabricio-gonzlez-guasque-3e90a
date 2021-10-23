@@ -11,29 +11,21 @@ sections:
   - section_id: about
     type: section_content
     title: About me
-    content: >+
+    content: >
       I'm 35 years old, and I live in Uruguay. I'm the father of a 6-year-old
-      girl named Guillermina.
-
-
-      I'm graduated of the Universidad de la República (UDELAR) in the career of
-      Agricultural Engineer, and I'm also studying programming in Sembrando TIC.
+      girl named Guillermina. I'm graduated of the Universidad de la República
+      (UDELAR) in the career of Agricultural Engineer, and I'm also studying
+      programming in Sembrando TIC.
 
 
       One of the things that I enjoy the most is practicing sports, especially
-      soccer. I also like to plant trees and turn them into bonsai. 
+      soccer. I also like to plant trees and turn them into bonsai.
 
 
       Since I was a kid I liked computers, and lately I got into the world of
-      programming, studying basically python.
-
-
-      I expect to continuing studying more about the different technologies, and
-      hoping to get a job in this industry. 
-
-
-
-
+      programming, studying basically python. I expect to continuing studying
+      more about the different technologies, and hoping to get a job in this
+      industry.
     actions:
       - label: Contact Me
         url: /contact
