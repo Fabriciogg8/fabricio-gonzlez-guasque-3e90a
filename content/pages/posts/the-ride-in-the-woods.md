@@ -1,6 +1,6 @@
 ---
 title: 'HTML, CSS, JS'
-subtitle: A cautionary tale about riding
+subtitle: 'HTML, CSS, JS'
 excerpt: I study this technologies for web applications
 date: '2021-03-22'
 thumb_img_path: /images/html.png
