@@ -14,7 +14,7 @@ sections:
     content: >
       I'm 35 years old, and I live in Uruguay. I'm the father of a 6-year-old
       girl named Guillermina. I'm graduated of the Universidad de la República
-      (UDELAR) in the career of Agricultural Engineer, and I'm also studying
+      (UDELAR) in the career of Agronomic Engineer, and I'm also studying
       programming in Sembrando TIC.
 
 
