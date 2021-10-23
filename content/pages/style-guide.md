@@ -1,7 +1,7 @@
 ---
 subtitle: >-
-  I have been workinh on python projects. From python basics, to flask
-  application. Also I learn some on pygame.
+  I have been working on python projects. From python basics, to flask
+  applications. Also I learnt some on pygame, and finish a series of games.
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
