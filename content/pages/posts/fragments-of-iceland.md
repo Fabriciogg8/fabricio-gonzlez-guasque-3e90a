@@ -3,7 +3,7 @@ title: Agronomic Engineer
 excerpt: "I graduate from the career of Agronomic Engineer in the opcion Agricultural - Livestock in\_2013."
 date: '2019-03-27'
 thumb_img_path: /images/agronomia.gif
-thumb_img_alt: Icelandic horses
+thumb_img_alt: Agronomic Engineer
 content_img_path: /images/Pythonlogo-d5046277.jpg
 content_img_alt: Icelandic horses
 seo:
