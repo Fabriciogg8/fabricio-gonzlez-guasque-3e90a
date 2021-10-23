@@ -65,7 +65,17 @@
         ]
     },
     "footer": {
-        "content": "Ing.Agr. Fabricio González Guasque   "
+        "content": "Ing.Agr. Fabricio González Guasque   ",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            }
+        ]
     },
     "domain": "https://fabricio-gonzlez-guasque-3e90a.netlify.app"
 }
