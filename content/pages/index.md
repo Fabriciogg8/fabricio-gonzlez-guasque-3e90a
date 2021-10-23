@@ -5,9 +5,12 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Fabricio González Guasque'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >+
+      On this website I introduce myself, and I show the different things that I
+      have studied and in which I have worked.
+
+      I hope you enjoy it!
+
   - section_id: about
     type: section_content
     title: About me
