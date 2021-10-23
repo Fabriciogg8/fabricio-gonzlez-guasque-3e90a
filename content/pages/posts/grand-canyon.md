@@ -4,7 +4,7 @@ excerpt: >-
   In 2021 I participate in Sembrando TIC. This is an Information Technology
   formation program, 100% online.
 date: '2019-03-10'
-thumb_img_path: /images/LOGO-sembrandotic.jpg
+thumb_img_path: /images/sembrando.gif
 thumb_img_alt: Hikers on the trail
 content_img_path: images/8.jpg
 content_img_alt: Hikers on the trail
