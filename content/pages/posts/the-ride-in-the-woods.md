@@ -6,7 +6,7 @@ date: '2018-01-23'
 thumb_img_path: /images/html.png
 thumb_img_alt: 'HTML, CSS, JS'
 content_img_path: /images/html.png
-content_img_alt: A motorcycle in a forest
+content_img_alt: 'HTML, CSS, JS'
 seo:
   title: The Ride In The Woods
   description: A cautionary tale about riding
