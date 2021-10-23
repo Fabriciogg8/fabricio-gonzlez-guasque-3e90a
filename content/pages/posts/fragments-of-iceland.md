@@ -1,6 +1,6 @@
 ---
 title: Agronomic Engineer
-excerpt: I finish several courses whit python
+excerpt: I graduate from the carrer of Agronomic Engineer in 2013.
 date: '2019-03-27'
 thumb_img_path: /images/agronomia.gif
 thumb_img_alt: Icelandic horses
