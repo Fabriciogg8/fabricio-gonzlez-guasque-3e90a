@@ -44,6 +44,7 @@ seo:
       value: images/5.jpg
       relativeUrl: true
 layout: post
+thumb_img_path: /images/agronomia-2f6d94fe.gif
 ---
 
 Photo by [Katerina Bartosova.](https://unsplash.com/photos/SAfJ1eTBeyk)
