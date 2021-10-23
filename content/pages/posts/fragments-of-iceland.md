@@ -1,6 +1,6 @@
 ---
 title: Agronomic Engineer
-excerpt: I graduate from the carrer of Agronomic Engineer in 2013.
+excerpt: I graduate from the carrer of Agronomic Engineer in the opcion Agriculin 2013.
 date: '2019-03-27'
 thumb_img_path: /images/agronomia.gif
 thumb_img_alt: Icelandic horses
