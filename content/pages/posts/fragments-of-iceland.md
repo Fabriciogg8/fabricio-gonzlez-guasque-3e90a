@@ -7,8 +7,8 @@ thumb_img_alt: Agronomic Engineer
 content_img_path: /images/agronomia-2f6d94fe.gif
 content_img_alt: Agrnomic Engineer
 seo:
-  title: Fragments of Iceland
-  description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
+  title: Agronomic Engineer
+  description: Agronomic
   extra:
     - name: 'og:type'
       value: article
@@ -38,3 +38,10 @@ seo:
       relativeUrl: true
 layout: post
 ---
+**Agronomic.** Since 2013 I work as an Agronomist. 
+
+Currently I am Regional Manager for the Regional Melo of Natural Resources of the MGAP (Ministry of Livestock, Agriculture and Fisheries). 
+
+Our main tasks correspond to land and water use plans.
+
+If you want to know more you should enter the MGAP page and search for the management system of use plans.

@@ -9,16 +9,14 @@ thumb_img_alt: Sembrando TIC
 content_img_path: /images/sembrando.gif
 content_img_alt: Sembrando TIC
 seo:
-  title: Hiking The Grand Canyon
-  description: >-
-    The Grand Canyon is a steep-sided canyon carved by the Colorado River in
-    Arizona
+  title: Sembrando TIC
+  description: Sembrando TIC
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Hiking The Grand Canyon
+      value: Sembrando TIC
       keyName: property
     - name: 'og:description'
       value: >-
@@ -32,13 +30,24 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Hiking The Grand Canyon
+      value: Sembrando TIC
     - name: 'twitter:description'
-      value: >-
-        The Grand Canyon is a steep-sided canyon carved by the Colorado River in
-        Arizona
+      value: Sembrando TIC
     - name: 'twitter:image'
       value: images/8.jpg
       relativeUrl: true
 layout: post
 ---
+**Sembrando TIC.**  In March 2021 I applied for a scholarship in the Sembrando TIC program.
+
+Sembrando TIC is a program created together with 5 strategic partners: Uruguayan Chamber of Information Technologies (CUTI), Globant, Mercado Libre, Inter-American Development Bank (IDB) and ManpowerGroup.
+
+I was granted the opportunity to enter the program.
+
+The profile of the graduate as a junior programmer will be able to:
+• Generate technological solutions for micro-enterprises
+• Develop online technologies for products and services
+• Implement basic functionalities in programming language that a micro-enterprise requires
+• Extract and analyze data used for business planning
+• Create and manage tools for the dissemination of results and product marketing.
+• Analyze basic estimates of costs and investments

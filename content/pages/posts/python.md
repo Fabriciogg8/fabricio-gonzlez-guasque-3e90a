@@ -7,10 +7,8 @@ thumb_img_alt: Fushimi Inari Shrine in Kyoto
 content_img_path: /images/Pythonlogo-535755b6.jpg
 content_img_alt: Python
 seo:
-  title: A Weekend in Japan
-  description: >-
-    The Shrines of Ise have been celebrated as the prototype of Japanese
-    architecture
+  title: Python
+  description: Python
   extra:
     - name: 'og:type'
       value: article
@@ -19,9 +17,7 @@ seo:
       value: A Weekend in Japan
       keyName: property
     - name: 'og:description'
-      value: >-
-        The Shrines of Ise have been celebrated as the prototype of Japanese
-        architecture
+      value: Python
       keyName: property
     - name: 'og:image'
       value: images/2.jpg
@@ -32,9 +28,7 @@ seo:
     - name: 'twitter:title'
       value: A Weekend in Japan
     - name: 'twitter:description'
-      value: >-
-        The Shrines of Ise have been celebrated as the prototype of Japanese
-        architecture
+      value: Python
     - name: 'twitter:image'
       value: images/2.jpg
       relativeUrl: true
